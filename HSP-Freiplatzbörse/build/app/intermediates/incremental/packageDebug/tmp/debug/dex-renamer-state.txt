@@ -1,0 +1,4 @@
+#Thu Oct 26 11:53:26 CEST 2023
+base.0=C\:\\Users\\fdai0257\\OneDrive\\Desktop\\Uni\\mobile web\\test\\sample_app_flutter_mysql8-main\\sample_app_flutter_mysql8-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
